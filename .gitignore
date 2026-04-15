@@ -1,0 +1,5 @@
+.env
+__pycache__/
+murojat_bot.db
+.venv/
+*.pyc
